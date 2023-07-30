@@ -1,0 +1,1 @@
+C:\GitHub\Cat\src\Cat\Cat\obj\Release\net7.0\browser-wasm\PubTmp\Out\web.config
