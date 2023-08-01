@@ -201,15 +201,15 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-dBCMwuDkqkXR0arTcwRDU8bXwEhuw+aJnHs1A8Z1tGk=",
+      "hash": "sha256-WdjwqxXmsh+jqOGJxV5KAEhDSzHEKi92PUU6tarewBE=",
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-mp4nhfziFsNGML+jLb2et6yuQqSvdFV+AyEzqgv35tc=",
+      "hash": "sha256-WdjwqxXmsh+jqOGJxV5KAEhDSzHEKi92PUU6tarewBE=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-+NHYfzXyq6Igmq9oqPS98qQvAddChnOaIg\/QU3M4fUA=",
+      "hash": "sha256-WdjwqxXmsh+jqOGJxV5KAEhDSzHEKi92PUU6tarewBE=",
       "url": "icon-512.png"
     },
     {
@@ -233,5 +233,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "Lyr9pZ77"
+  "version": "GkNeT\/PA"
 };
