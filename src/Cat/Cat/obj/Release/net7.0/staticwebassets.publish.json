@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oQ09+WHRN45SeVIMDrSC62ISzpwdkeMN07VyBbuu1qk=",
+  "Hash": "6mH3IK/eLTrBqtjSmb+fbImARW/Fq4mhs7O+69viD8A=",
   "Source": "Cat",
   "BasePath": "/",
   "Mode": "Root",
@@ -1020,40 +1020,6 @@
       "OriginalItemSpec": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\linked\\Microsoft.Extensions.Configuration.dll"
     },
     {
-      "Identity": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\compress\\Pmjeagfs.br",
-      "SourceId": "Cat",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Net.Http.Json.dll.br",
-      "AssetKind": "Publish",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\linked\\System.Net.Http.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\linked\\System.Net.Http.Json.dll"
-    },
-    {
-      "Identity": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\compress\\Pmjeagfs.gz",
-      "SourceId": "Cat",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Net.Http.Json.dll.gz",
-      "AssetKind": "Publish",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\linked\\System.Net.Http.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\linked\\System.Net.Http.Json.dll"
-    },
-    {
       "Identity": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\compress\\Qb9+u4I2.br",
       "SourceId": "Cat",
       "SourceType": "Computed",
@@ -1783,23 +1749,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net7.0\\linked\\System.Net.Http.dll"
-    },
-    {
-      "Identity": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\linked\\System.Net.Http.Json.dll",
-      "SourceId": "Cat",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\browser-wasm\\PubTmp\\Out\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Net.Http.Json.dll",
-      "AssetKind": "Publish",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "obj\\Release\\net7.0\\linked\\System.Net.Http.Json.dll"
     },
     {
       "Identity": "C:\\GitHub\\Cat\\src\\Cat\\Cat\\obj\\Release\\net7.0\\linked\\System.Net.Primitives.dll",
